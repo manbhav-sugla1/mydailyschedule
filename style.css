@@ -1,0 +1,30 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: papayawhip;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header{
+    text-align: center;
+    font-size: 130%;
+    text-decoration: underline;
+}
+
+ul{
+    position: relative;
+    width: 950px;
+    margin: 30px auto 0;
+    padding: 10px;
+}
+
+ul li{
+    display: flex;
+    background: #ffa07a;
+    padding: 12px 30px;
+    margin: 14px 0;
+    color: #031E42;
+    border-radius: 30px;
+    font-size: 130%;
+    font-weight: bold;
+}
